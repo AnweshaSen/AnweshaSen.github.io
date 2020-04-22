@@ -6,4 +6,4 @@ title: Hii !!
 description: |
 ---
   I am a student of Jadavpur University, Kolkata, India. I am pursuing my undergrad in Computer Science and Engineering there.
-  #codeGeek
+  <br />**#codeGeek**
