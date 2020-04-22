@@ -5,4 +5,4 @@ category: Services
 title: Let's learn together
 description: |
 ---
-  We are just a text apart. Do mail me [anwesha.sen321@gmail.com]{color="blue"} for any quaries regarding new technologies. Hope to have a tech-talk with you :blush:
+  We are just a text apart. Reach out to me anytime. Hope to have a tech-talk with you :blush:
